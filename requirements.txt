@@ -6,6 +6,7 @@ colorama==0.4.6
 cryptography==42.0.8
 distlib==0.3.8
 Django==5.0.1
+djangorestframework==3.16.0
 Faker==20.0.0
 faker-biology==0.6.2
 faker-python==0.0.1
